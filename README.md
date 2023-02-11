@@ -6,4 +6,4 @@
 
 <h2>Oque é esse projeto :thinking:</h2>
 <p>Projeto criado com HTML e CSS, apenas para aprender a criar uma page de uma forma mais semântica</p>
-<p>Criado em 11/02/2023 :upside_down_face:</p>
+<p>Criado em 25/01/2023 :upside_down_face:</p>
